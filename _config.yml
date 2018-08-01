@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: https://github.com/MantinYT/MantinYT.github.io/blob/master/assets/images/zh.jpg
+avatar: /assets/images/zh.jpg
 
 
 # Table Of Contents in the Sidebar
